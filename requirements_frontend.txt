@@ -1,0 +1,8 @@
+# Hunyuan3D-2.1 HF Frontend — minimal requirements
+# No GPU / CUDA needed — all inference runs on HuggingFace Spaces.
+#
+# Install with:
+#   pip install -r requirements_frontend.txt
+
+gradio>=5.0.0
+gradio_client>=1.0.0
